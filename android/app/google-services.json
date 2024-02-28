@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698855843266",
+    "project_id": "nitco-69339",
+    "storage_bucket": "nitco-69339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698855843266:android:4e198c527168f7d2b4225b",
+        "android_client_info": {
+          "package_name": "com.example.nitco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGLLsUZTENt3x3lvlUW30JxyCV0yfSy-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
